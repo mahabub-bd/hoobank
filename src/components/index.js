@@ -5,6 +5,7 @@ import CTA from "./CTA";
 import CardDeal from "./CardDeal";
 import Clients from "./Clients";
 import FeatureCard from "./FeatureCard";
+import FeedbackCard from "./FeedbackCard";
 import Footer from "./Footer";
 import GetStarted from "./GetStarted";
 import Hero from "./Hero";
@@ -16,5 +17,5 @@ import Testimonials from "./Testimonials";
 
 
 
-export { Billing, Business, Button, CardDeal, Clients, CTA, FeatureCard, Footer, GetStarted, Navbar, Stats, Testimonials, Hero };
+export { Billing, Business, Button, CardDeal, Clients, CTA, FeatureCard, FeedbackCard, Footer, GetStarted, Navbar, Stats, Testimonials, Hero };
 
